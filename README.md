@@ -1,8 +1,11 @@
 # Eye_blink_detection
 The main algorithm used is to detect
   -Eye localization.
+  
   -Thresholding to find the whites of the eyes.
+  
   -Determining if the “white” region of the eyes disappears for a period of time (indicating a blink).
+  
   
 #Demo Video
 
